@@ -10,7 +10,7 @@ export const Header = () => {
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <p>UniShield</p>
                 <a href="https://expo.dev/artifacts/eas/7QHdiS8C7uUVTPM7Js5fNJ.apk">
-                  <img src={logo} alt="logo" style={{ width: "120px" }} />
+                  <img src={logo} alt="logo" style={{}} />
                 </a>
                 <div
                   style={{
